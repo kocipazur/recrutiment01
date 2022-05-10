@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruitment.Contracts", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruitment.Infrastructure", "Recruitment.Infrastructure\Recruitment.Infrastructure.csproj", "{64C7DB16-DB47-47B5-8CEF-B265B76A15D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruitment.Api.Tests", "Recruitment.Api.Tests\Recruitment.Api.Tests.csproj", "{FFE4D00B-66AF-44F5-BFA4-2F883B24DE8F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recruitment.Tests", "Recruitment.Tests\Recruitment.Tests.csproj", "{FFE4D00B-66AF-44F5-BFA4-2F883B24DE8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
